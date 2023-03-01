@@ -1,0 +1,46 @@
+0
+4
+38 13 13 31
+30 18 5 25
+2 29 3 7
+26 33 28 11
+xxxxxxxxxxxxx xxxxxxxxxxxxxxxxxxxxx
+x                   x  x x        x
+x        x                        x
+x         x         x             x
+x                    x            x
+x     x                           x
+x          x       x              x
+x                     x           x
+x  x                              x
+x               x                 x
+x           x   x       x         x
+x                                 x
+x                   x             x
+x                                 x
+x        x                 x x    x
+x    x     x                      x
+x              x                  x
+xx             x                  x
+x                   x             x
+x       x                x        x
+x      x    x                     x
+x                    x            x
+x                      x       x  x
+x                          x  x   x
+x                                 x
+x                           x     x
+x        xx    x                  x
+x           x         x      x    x
+x                                 x
+x    x                     x      x
+x             x x          x      x
+x               x                xx
+x x                              xx
+x                                 x
+x                    x            x
+x                      x          x
+x        x                        x
+x      x                    S x   x
+x                               x x
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
